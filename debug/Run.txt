@@ -1,0 +1,2 @@
+imgconv reading_dog.ppm reading_dog.jpg
+imgconv reading_dog.jpg reading_dog.bmp

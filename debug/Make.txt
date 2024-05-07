@@ -1,0 +1,2 @@
+cmake ../ImgConverter -DCMAKE_BUILD_TYPE=Debug -DLIBJPEG_DIR=C:/dev/LibJPEG/ -G "MinGW Makefiles"
+cmake --build .
