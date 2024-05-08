@@ -1,2 +1,6 @@
-imgconv reading_dog.ppm reading_dog.jpg
-imgconv reading_dog.jpg reading_dog.bmp
+imgconv b4.ppm b4_to_ppm_from_ppm.ppm
+imgconv b4.ppm b4_to_jpg_from_ppm.jpg
+imgconv b4.ppm b4_to_bmp_from_ppm.bmp
+imgconv b4.bmp b4_to_bmp_from_bmp.bmp
+imgconv b4.bmp b4_to_jpg_from_bmp.jpg
+imgconv b4.bmp b4_to_ppm_from_bmp.ppm
